@@ -11,8 +11,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e programação. A
 ## Conecte-se comigo
 
  <div>
-<a href = "tg.dossantosbenevides@gmail.com
-"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto: tg.dossantosbenevides@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tauan-benevides/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
