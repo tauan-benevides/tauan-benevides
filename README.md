@@ -15,9 +15,6 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e programação. A
 <a href="https://www.linkedin.com/in/tauan-benevides/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## Estatísticas do GitHub
-
-!Estatísticas do GitHub
-
 ---
+
 
