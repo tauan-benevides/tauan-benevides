@@ -19,3 +19,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e programação. A
 </div>
 
 
+<div>
+<a href="https://github.com/tauan-benevides">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tauan-benevides&layout=compact&langs_count=7&theme=dracula"/>
+</div>
